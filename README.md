@@ -1,5 +1,5 @@
 ## Since you're here...:)
-- 👋 Hi, I’m Joe Gitonga
+- 👋 Hi, I’m Joseph Gitonga
 - 🤓 I am a trained Electrical & Electronics Engineer, and a self-taught Software Engineer.
 - For the last 5+ years, I have built awesome software and IoT solutions/products, in collabolation with other awesome Engineers.<br/>This has seen me grow to my current level of **Senior Software Enginner**
 - 👀 I’m interested in:
