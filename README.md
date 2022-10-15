@@ -22,7 +22,6 @@
 ## Contacts
 - Website: https://josephgitonga.com
 - Email: contact@josephgitonga.com / thekiharani@gmail.com
-- WhatsApp: https://api.whatsapp.com/message/DNFXT2LR6U2TB1
 - Telegram: https://t.me/thekiharani
 - Twitter: https://twitter.com/thekiharani
 - LinkedIn: www.linkedin.com/in/thekiharani
