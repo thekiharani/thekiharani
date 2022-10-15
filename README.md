@@ -17,11 +17,11 @@
     - Docker, DigitalOcean, AWS
     - Miscellaneous :)
     
-- 🌱 I’m currently making the world a better place through engineering solutions, as well as learning new things each day!
+- 🌱 I’m currently working as Software Engineer at Stax Payments (via Andela)
 
 ## Contacts
-- Website: https://thekiharani.com
-- Email: thekiharani@gmail.com / hello@thekiharani.com
+- Website: https://josephgitonga.com
+- Email: contact@josephgitonga.com / thekiharani@gmail.com
 - WhatsApp: https://api.whatsapp.com/message/DNFXT2LR6U2TB1
 - Telegram: https://t.me/thekiharani
 - Twitter: https://twitter.com/thekiharani
